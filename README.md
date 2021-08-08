@@ -1,0 +1,1 @@
+I'm **excited** to be on the ALX program to soon becoming *software engineer*.
